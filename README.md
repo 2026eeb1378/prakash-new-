@@ -1,2 +1,2 @@
-# prakash-new-
-it is just a pratice for creating a repository in git 
+# prakash-new-2026
+it is just a practice for creating a repository in git 
